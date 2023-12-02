@@ -129,8 +129,8 @@ yarn 1.22.19
 ### Installation
 Clone the repository:
 ```
-https://github.com/NindoK/otc_swap_protocol.git
-cd otc_swap_protocol
+https://github.com/GETOfinance/DEX-OTC-Swap-p2p.git
+cd OTC_swap
 ```
 
 ### Run on L2 Mumbai Polygon Testnet
@@ -139,9 +139,6 @@ Please prepare MetaMask wallet. Please use chain id 80001 and rpc url https://ma
 Note - for L2 deployment you don't need to install forge, anvil, cast.
 Contracts are deployed on L2. Please refer to chain id 80001 in the following file:
 
-```html
-https://github.com/NindoK/otc_swap_protocol/blob/main/frontend/constants/networkMapping.json
-```
 
 Run on L2:
 ```
@@ -217,11 +214,8 @@ Verify you have interactions with smart contract - assuming OtcNexus is deployed
 cast call 0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0 "rfsIdCounter()"
 0x0000000000000000000000000000000000000000000000000000000000000001
 ```
-Verify the contract's address in chain id 31337 matches the one deployed by commandline:
 
-```html
-https://github.com/NindoK/otc_swap_protocol/blob/main/frontend/constants/networkMapping.json
-```
+
 
 Run frontend:
 ```
