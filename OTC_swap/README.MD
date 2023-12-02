@@ -133,14 +133,6 @@ https://github.com/GETOfinance/DEX-OTC-Swap-p2p.git
 cd OTC_swap
 ```
 
-### Run on L2 Mumbai Polygon Testnet
-Please prepare MetaMask wallet. Please use chain id 80001 and rpc url https://matic-mumbai.chainstacklabs.com/
-
-Note - for L2 deployment you don't need to install forge, anvil, cast.
-Contracts are deployed on L2. Please refer to chain id 80001 in the following file:
-
-
-Run on L2:
 ```
 (cd ./frontend) && npm install && npm run dev
 ```
