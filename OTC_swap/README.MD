@@ -218,7 +218,7 @@ npm run dev
 
 Connect wallet with network:
 - rpc url: http://localhost:8545
-- chain id: 31337
+- chain id: 1001
 
 ### Troubleshoot wallet problems
 - metamask => settings => advanced => Clear activity tab data
