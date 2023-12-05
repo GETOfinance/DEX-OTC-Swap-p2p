@@ -51,8 +51,6 @@ DEX Flow Chat
 ![DEX Flow Chat](https://cdn.dorahacks.io/static/files/18c2a92dafeeea47620722945cbb6d50.png)
 
 
-DEX
-
 OTC Swap
 
 OTC Swap is a peer-to-peer DEX with Futures options using Crypto & Fiat powered by Chainlink Functions.
@@ -61,4 +59,4 @@ Our protocol serves as a peer-to-peer marketplace for token trading, primarily t
 
 Options Flow Chat
 
-otc
+![Options Flow Chat](https://cdn.dorahacks.io/static/files/18c2a96ffb45791a2e5244e48b49fd89.jpeg)
