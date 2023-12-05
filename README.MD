@@ -57,6 +57,17 @@ OTC Swap is a peer-to-peer DEX with Futures options using Crypto & Fiat powered 
 
 Our protocol serves as a peer-to-peer marketplace for token trading, primarily targeting 'whales', or investors with large-scale holdings. These investors often encounter difficulties in liquidating their positions due to their substantial size. Our solution mitigates this issue by allowing whales to avoid 'sandwich attacks' on Decentralized Exchanges (DEXs), thereby facilitating smoother exits from their positions. This is particularly beneficial for those holding memecoins, which are typically illiquid and highly volatile. In addition, we've incorporated exotic financial instruments like options into our platform, offering a diversity of on-chain products that are currently less common in the market.
 
+Contracts deployed on baobab testnet
+
+OtcMath: 0x2209E002C4156d6501E0752D52b1F6BE0F69e6bd
+https://baobab.klaytnfinder.io/account/0x2209E002C4156d6501E0752D52b1F6BE0F69e6bd
+
+OtcNexus: 0x8aa66FB85b74014383dBF0D8372b03EF46461732
+https://baobab.klaytnfinder.io/account/0x8aa66FB85b74014383dBF0D8372b03EF46461732
+
+OtcToken: 0x76B1412B009eCAbED3c91ee21fCA64E73214504E
+https://baobab.klaytnfinder.io/account/0x76B1412B009eCAbED3c91ee21fCA64E73214504E
+
 Options Flow Chat
 
 ![Options Flow Chat](https://cdn.dorahacks.io/static/files/18c2a96ffb45791a2e5244e48b49fd89.jpeg)
