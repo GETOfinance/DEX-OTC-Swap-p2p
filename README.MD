@@ -47,7 +47,9 @@ Staking Factory deployed to: 0x5d65639702612243a3484875320d6d293057c5a7
 https://baobab.klaytnfinder.io/account/0x5d65639702612243a3484875320d6d293057c5a7
 
 DEX Flow Chat
-https://cdn.dorahacks.io/static/files/18c2a92dafeeea47620722945cbb6d50.png
+
+![DEX Flow Chat](https://cdn.dorahacks.io/static/files/18c2a92dafeeea47620722945cbb6d50.png)
+
 
 DEX
 
